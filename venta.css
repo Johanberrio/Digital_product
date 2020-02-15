@@ -1,0 +1,42 @@
+.modulopago{
+
+  background-color: white;
+  box-shadow: 0px 0 2px 1px #e6e5e9;
+  padding: 10px;
+}
+
+.modulopagoimagenes{
+
+  max-width: 250px;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+.container{
+
+  padding: 3%;
+}
+
+label,p{
+
+  font-size: 0.9em;
+}
+
+.data {
+  margin-top: 10px;
+  width: 90%;
+  height: 35px;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.modulopago .main_button {
+  margin-top: 10px;
+  width: 90%;
+}
+
+footer {
+
+  margin-bottom: 0px;
+}
